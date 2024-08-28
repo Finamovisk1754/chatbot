@@ -1,5 +1,7 @@
 import time
 
+#Matheus Finamor --- Thiago Ferreira
+
 def exibir_menu():
     print("Bom dia! Bem-vindo ao nosso atendimento virtual.")
     print("Por favor, selecione uma das opções abaixo:")
