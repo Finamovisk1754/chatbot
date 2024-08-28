@@ -1,6 +1,6 @@
 import time
 
-#Matheus Finamor --- Thiago Ferreira
+#Matheus Finamor --- Tiago Ferreira
 
 def exibir_menu():
     print("Bom dia! Bem-vindo ao nosso atendimento virtual.")
